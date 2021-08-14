@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FullLevelDev
-- 👀 I’m interested in ...
+- 👀 I’m interested in programming..
 - 🌱 I’m currently learning Web Programming
 - 💞️ I’m looking to collaborate do'stlarim bilan
 - 📫 How to reach me : via my social network address
